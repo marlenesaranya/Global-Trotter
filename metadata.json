@@ -1,0 +1,7 @@
+{
+  "name": "GlobeTrotter_G STUDIO",
+  "description": "A smart travel planning assistant that generates multi-city itineraries, day-wise schedules, and budget breakdowns using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
